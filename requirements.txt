@@ -1,0 +1,8 @@
+streamlit
+pymongo
+dnspython
+pandas
+plotly
+certifi
+streamlit-calendar
+openpyxl
